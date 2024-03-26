@@ -1,8 +1,4 @@
-
-#Identificação do Grupo
-
-
-Software-Engineering-LIGE-2Sem-2022-Grupo-42
+# Software-Engineering-LIGE-2Sem-2022-Grupo-42
 
 
 
@@ -17,6 +13,5 @@ Software-Engineering-LIGE-2Sem-2022-Grupo-42
 92616	Rita Morais;
 
 #identificação e descrição de erros e funcionalidades não implementadas ou incompletas
-
 
 N/A
